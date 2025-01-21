@@ -1,0 +1,7 @@
+{
+    "top_level_dir": "laravel-docker",
+    "db_name": "laravel",
+    "db_user": "laravel",
+    "db_password": "laravel",
+    "mysql_root_password": "root"
+  }
